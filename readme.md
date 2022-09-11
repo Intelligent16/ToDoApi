@@ -4,4 +4,5 @@ uvicorn main:app --reload
 pip install "fastapi[all]"
 pip install "uvicorn[standard]"
 uvicorn main:app --reload --port {YOUT_PORT} --host {YOUR_HOST}
+http://213.108.170.18:999/
 ~~~
