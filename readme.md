@@ -1,4 +1,4 @@
-if you want start run command:
+# if you want start run command:
 ~~~
 uvicorn main:app --reload
 pip install "fastapi[all]"
